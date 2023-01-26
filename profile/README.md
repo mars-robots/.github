@@ -1,6 +1,6 @@
 ## Goal: Accelerate Mars Colonisation.
 
-Starship payload capacity to mars is 100+ tonnes. Assume, >10 starships landing on Mars in 2030. Who is building stuff for Mars? 
+Starship payload capacity to mars is 100+ tonnes. Assume >10 starships landing on Mars in 2030. Who is building stuff for Mars? 
 
 - SpaceX prolly cannot since all resources are diverted to scale Starship
 - That leaves NASA and defense contractors. Unfortunately, they are slow and expensive. Ingenuity cost $80 mil.
