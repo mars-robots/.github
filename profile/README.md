@@ -1,4 +1,4 @@
-**Goal:** Accelerate Mars Colonisation.
+## Goal: Accelerate Mars Colonisation.
 
 Starship payload capacity to mars is 100+ tonnes. Assume, >10 starships landing on Mars in 2030. Who is building stuff for Mars? 
 
@@ -11,7 +11,7 @@ This is a bet on Starship reaching Mars. Once it does, it’s an announcement to
 
 Moreover, my gut says now is the time to build it since spacex was the first mover in disrupting defense contractors, changing nasa culture a lil, ingenuity costing so much but being so successful and laying building blocks. A lot of people/projects faced the initial brunt, the timing is also perfect rn.
 
-**Why drones?**
+### Why drones
 
 Drones are the next robots we need on mars to further understand the planet. 
 
@@ -23,6 +23,6 @@ Ingenuity proved that flight is possible on Mars + it far exceeded its lifetime/
 
 Even if drones don’t work coz of design/economics/feasibility then vvv likely i would’ve figured out what initial infra I can build to speed up colonization + I’ll have enough contacts/resources.
 
-**How tf are you gonna make money off of this?**
+### How tf is this company going to make money?
 
 Great question, I have no idea, but I will figure it out.
