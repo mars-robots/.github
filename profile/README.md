@@ -26,3 +26,8 @@ Even if drones don’t work coz of design/economics/feasibility then vvv likely 
 ### How tf is this company going to make money?
 
 Great question, I have no idea, but I will figure it out.
+
+
+
+
+if you are interested in space, mars, aerospace, defense, plumbing, agriculture, manufacturing, electrical engineering, basically any skill/product that will be required to build a self-sustaining city on Mars, dm me on twitter->https://twitter.com/Rayquaza737
