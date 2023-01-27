@@ -25,9 +25,12 @@ Even if drones don’t work coz of design/economics/feasibility then vvv likely 
 
 ### How tf is this company going to make money?
 
-Great question, I have no idea, but I will figure it out.
+Great question, I have no idea, but I will figure it out. I also need to figure out use cases for here on Earth. Is there a market for drones that work at 100,000 feet or operate at -50 celcius? Everyone including me will probably benefit from faster feedback loops and generate a sense of emergency when the launch window is 2 years from now.
+
+I do suspect that hiring is going to be relaively easy for this. If you like space and want to buiuld rockets go to SpaceX. If you like space and do not want to build rockets then come work here. Regardless of your discipline (in the long run) there will be a LOT you can contribute to building a new world on Mars. In the long-long run, the company becomes a world building company and makes sustainable robot colonies on different planets.
 
 
+I dont know if im overfitting but if agi comes in <10 years, then idk how the societal structures will be post agi but we would prolly explore the universe, so this fits in. So with or without agi this company probably makes sense.
 
 
 if you are interested in space, mars, aerospace, defense, plumbing, agriculture, manufacturing, electrical engineering, basically any skill/product that will be required to build a self-sustaining city on Mars, dm me on twitter->https://twitter.com/Rayquaza737
