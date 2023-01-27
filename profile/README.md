@@ -32,5 +32,7 @@ I do suspect that hiring is going to be relaively easy for this. If you like spa
 
 I dont know if im overfitting but if agi comes in <10 years, then idk how the societal structures will be post agi but we would prolly explore the universe, so this fits in. So with or without agi this company probably makes sense.
 
+the world is focused on artermis rn. even better.
+
 
 if you are interested in space, mars, aerospace, defense, plumbing, agriculture, manufacturing, electrical engineering, basically any skill/product that will be required to build a self-sustaining city on Mars, dm me on twitter->https://twitter.com/Rayquaza737
